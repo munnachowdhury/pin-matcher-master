@@ -111,3 +111,6 @@ color: #E0B612;
 #accessDenied{
     display: none;
 }
+#randomDisplay, #inputDisplay{
+    text-align: center;
+}
